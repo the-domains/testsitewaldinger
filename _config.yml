@@ -1,0 +1,28 @@
+name: TestSiteWaldinger
+favicon: null
+layout_spectrum: 0.7644484422635287
+typography_spectrum: 0.7164645660668612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.702138822991401
+  lightness: 0.6399669195525348
+  saturation: 0.7317069678101689
+  rhythmicContrast: 0.421589596895501
+purpose: []
